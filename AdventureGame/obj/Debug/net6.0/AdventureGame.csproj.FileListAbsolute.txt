@@ -1,0 +1,15 @@
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/bin/Debug/net6.0/AdventureGame
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/bin/Debug/net6.0/AdventureGame.deps.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/bin/Debug/net6.0/AdventureGame.runtimeconfig.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/bin/Debug/net6.0/AdventureGame.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/bin/Debug/net6.0/AdventureGame.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.csproj.AssemblyReference.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.AssemblyInfoInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.AssemblyInfo.cs
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/refint/AdventureGame.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/AdventureGame.genruntimeconfig.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/obj/Debug/net6.0/ref/AdventureGame.dll

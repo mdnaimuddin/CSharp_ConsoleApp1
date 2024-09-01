@@ -1,0 +1,15 @@
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.deps.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.runtimeconfig.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.csproj.AssemblyReference.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.AssemblyInfoInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.AssemblyInfo.cs
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/refint/EvenOddNumber.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.genruntimeconfig.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/EvenOddNumber/obj/Debug/net6.0/ref/EvenOddNumber.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3Pd9qMZc6sVI8y4FEhAOSyCmR82H9VlEKGr4xSFIhJ8rkh6/BLJvh0bODdpPZhiRXaae2iLKD0pUv5I4E/T8g==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/AdventureGame/AdventureGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
