@@ -1,0 +1,15 @@
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll

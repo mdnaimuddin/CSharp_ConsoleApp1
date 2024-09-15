@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGmUJ0LV27z4QzpyH+pDBifBYsxDARf6MvwjhRDuaB+z4wCF/TYkpxaRjE+VBcc/Lbfkejhr7e3Osschho5JPA==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/MethodOverloading/MethodOverloading.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

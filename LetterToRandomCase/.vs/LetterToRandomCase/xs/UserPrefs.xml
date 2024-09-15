@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D71FD4FC-5BCA-4C3A-9C67-D03B4E3EAA41}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LetterToRandomCase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../AdventureGame/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="../EvenOddNumber/Program.cs" Line="12" Column="41" />
+      <File FileName="../AdventureGame/Program.cs" Line="21" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetterToRandomCase" expanded="True">
+            <Node name="EvenOddNumber" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
