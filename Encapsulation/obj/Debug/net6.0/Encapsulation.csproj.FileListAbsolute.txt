@@ -1,0 +1,15 @@
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/bin/Debug/net6.0/Encapsulation
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/bin/Debug/net6.0/Encapsulation.deps.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/bin/Debug/net6.0/Encapsulation.runtimeconfig.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/bin/Debug/net6.0/Encapsulation.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/bin/Debug/net6.0/Encapsulation.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfo.cs
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/refint/Encapsulation.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/Encapsulation.genruntimeconfig.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Encapsulation/obj/Debug/net6.0/ref/Encapsulation.dll

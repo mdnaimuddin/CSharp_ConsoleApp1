@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uoKzIDmi0vgzRXne11JPt9XMVSXOUTMMIZN4YW6XQLApWGtwumfCiX5yshJHbpNFTbteBX7Y6R/pDDx9+cZjYw==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/OutParameters/OutParameters.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xjThnNz/jgzNrQb9UugkSY3giVx2dyM3/0iyCDNpHvL+y0ovzh6Hxhd9nSIaNs8fvGKoelhDjBjVvUYbyvwTg==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/CalculateRectangle.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

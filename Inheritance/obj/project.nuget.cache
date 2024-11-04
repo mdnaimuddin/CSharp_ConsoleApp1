@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaUc3D6YBgDC4yp89uQZybsTuD66H3clST/4KpqZ9PnCWeEZstvQKaLUDE3S+H5MpdP5/sCEtmMi8Jn+aGTdhw==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/Inheritance/Inheritance.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

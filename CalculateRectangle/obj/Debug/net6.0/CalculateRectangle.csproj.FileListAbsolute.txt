@@ -1,0 +1,15 @@
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/bin/Debug/net6.0/CalculateRectangle
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/bin/Debug/net6.0/CalculateRectangle.deps.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/bin/Debug/net6.0/CalculateRectangle.runtimeconfig.json
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/bin/Debug/net6.0/CalculateRectangle.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/bin/Debug/net6.0/CalculateRectangle.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.csproj.AssemblyReference.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.AssemblyInfoInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.AssemblyInfo.cs
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/refint/CalculateRectangle.dll
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.pdb
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/CalculateRectangle.genruntimeconfig.cache
+/Users/admin/Projects/gitProjects/CSharp_ConsoleApp1/CalculateRectangle/obj/Debug/net6.0/ref/CalculateRectangle.dll
